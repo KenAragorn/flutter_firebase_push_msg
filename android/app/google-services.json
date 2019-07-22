@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591889824729",
+    "firebase_url": "https://fir-messaging-sample-c80e1.firebaseio.com",
+    "project_id": "fir-messaging-sample-c80e1",
+    "storage_bucket": "fir-messaging-sample-c80e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591889824729:android:a5ba7f9eb864ac3c",
+        "android_client_info": {
+          "package_name": "com.venturearkstudio.flutter_firebase_push_msg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591889824729-ufuoimbvlucto4t1vb7su67qk3oj83kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkCzu6hYHfwY2pVHS7e_92aumPaBaTiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591889824729-ufuoimbvlucto4t1vb7su67qk3oj83kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
